@@ -1,5 +1,4 @@
-
-#王子双
+# 王子双
                  应聘职位：WEB前端开发工程师               
 
 
@@ -13,8 +12,12 @@
 
 # 专业技能
 
--`html/css`
--**html/css** 
+`html/css`---------------------------------------------------------------
+
+
+·熟悉W3C规范，掌握DIV+CSS布局，并结合WEB标准、标签语义化和优化代码。
+·熟悉W3C规范，掌握DIV+CSS布局，并结合WEB标准、标签语义化和优化代码。<br>
+·熟悉W3C规范，掌握DIV+CSS布局，并结合WEB标准、标签语义化和优化代码。
 
 
              
@@ -26,7 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown：kramdown
 Syntax highlighted code block
 
 # Header 1
