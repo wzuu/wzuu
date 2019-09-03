@@ -1,6 +1,19 @@
-## first
+## 个人资料
+```markdown
+Syntax highlighted code block
 
-色调所多
+-姓名：王子双
+-性别：男
+-年龄：24
+-经验：2年
+
+**Bold** and _Italic_ and `Code` text
+```
+
+```markdown
+###哈哈哈
+
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wzuu/wzuu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
