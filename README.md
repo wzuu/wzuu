@@ -1,25 +1,25 @@
 ```markdown
-
-## 王子双
-                 职位：WEB前端开发工程师
-                 
+王子双
+                 应聘职位：WEB前端开发工程师               
 ```
+
+```markdown
 性别：男              经验：2年
 年龄：25岁            状态：离职（随时到岗）   
 学历：大专            毕业院校：淮安信息职业技术学院（14届-软件技术）
 经验：2年             现居：南京
 期望薪资：面议         联系电话：13276507913     联系邮箱：13276507913@163.com
-
-
-# 专业技能
-'html/css'
+``` 
 
 # 专业技能
 
-```markdown
-## 王子双
-                 职位：WEB前端开发工程师                
-```                
+
+**Bold** and _Italic_ and html/css text
+**Bold** html/css 
+
+**Bold** and _Italic_ and 'sadasd' text
+
+             
 You can use the [editor on GitHub](https://github.com/wzuu/wzuu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
